@@ -1,8 +1,0 @@
-{
-  "version": "1.0.0.0",
-  "releasedAt": "2026-09-04T00:00:00Z",
-  "zipUrl": "https://github.com/ChainedWithGods/Test/releases/download/v1.0.0/PakViewer.zip",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "minAppVersion": "1.0.0.0",
-  "releaseNotes": "Initial release."
-}
