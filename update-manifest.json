@@ -1,8 +1,8 @@
 {
   "version": "2.0.0.0",
-  "downloadUrl": "https://github.com/ChainedWithGods/Test/releases/download/v2.0.0/PakViewer-2.0.0.zip",
-  "sha256": "<GITHUB_SHA256>",
+  "downloadUrl": "https://github.com/ChainedWithGods/Test/releases/download/2.0.0/PakViewer-2.0.0.zip",
+  "sha256": "681208dc5da488ff9cb073bd61d4395728f2b82b46b0edfcf3ba029abaf1d4db",
   "mandatory": false,
-  "releaseNotes": "Major bump: test end-to-end update flow. SHA256 verification now matches GitHub's processed zip.",
+  "releaseNotes": "Major bump: test end-to-end update flow.",
   "releasedAt": "2026-09-04T01:11:30Z"
 }
